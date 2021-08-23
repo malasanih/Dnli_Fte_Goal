@@ -1,0 +1,54 @@
+Role,Business Unit,Home Department,Cost Number,Fixed Demand,Baseline Variable Demand,Primary Driver,Low,Fixed or Variable
+IP,Business Operations,"Legal, Patent Mgmt, IP","Legal, Patent Mgmt, IP",,0.333333333,"Total combined seed, core and TV programs",0.4,Variable
+Contracting,Business Operations,"Legal, Patent Mgmt, IP","Legal, Patent Mgmt, IP",,0.01,Denali HC All,0.013333333,Variable
+General Counsel,Business Operations,"Legal, Patent Mgmt, IP","Legal, Patent Mgmt, IP",,0.004,Denali HC All,0.005,Variable
+Legal Operations,Business Operations,"Legal, Patent Mgmt, IP","Legal, Patent Mgmt, IP",,0.006666667,Denali HC All,0.008,Variable
+Mgmt,Business Operations,Business Development,Business Development,2,,,,Fixed
+Business Development (Fixed),Business Operations,Business Development,Business Development,2,,,,Fixed
+Business Development,Business Operations,Business Development,Business Development,,1,Number of Planned New Collaborations,,Variable
+Planning & Strategy,Business Operations,Business Development,Planning & Strategy,2,,,,Fixed
+Alliance Management (Fixed),Business Operations,Business Development,Business Development,1,,,,Fixed
+Alliance Mgmt Collaborations,Business Operations,Business Development,Business Development,,0.666666667,Number of collaborations,,Variable
+Alliance Mgmt China,Business Operations,Business Development,Business Development,,1,China expansion,,Variable
+Alliance Mgmt Commercial,Business Operations,Business Development,Business Development,,1,Commercial (Partnered program),,Variable
+IT Support,Finance,Information Techologies,Information Technologies,,0.0325,Denali HC All,,Variable
+Mgmt,Finance,Corporate Finance,Corporate Finance,2,,,,Fixed
+Accounting,Finance,Corporate Finance,Corporate Finance,4,,,,Fixed
+SEC,Finance,Corporate Finance,Corporate Finance,2,,,,Fixed
+AP,Finance,Corporate Finance,Corporate Finance,2,,,,Fixed
+Controller - Commercial,Finance,Corporate Finance,Corporate Finance,,4,Commercial,,Variable
+Controller - International,Finance,Corporate Finance,Corporate Finance,,1,International expansion,,Variable
+Controller - China,Finance,Corporate Finance,Corporate Finance,,2,China expansion,,Variable
+Controller - Collaborations,Finance,Corporate Finance,Corporate Finance,,1,Number of Planned New Collaborations,,Variable
+Controller,Finance,Corporate Finance,Corporate Finance,,0.003333333,Denali HC All,0.005,Variable
+Tax (Fixed),Finance,Corporate Finance,Corporate Finance,1,,,,Fixed
+Tax - SALT,Finance,Corporate Finance,Corporate Finance,,1,Commercial,,Variable
+Tax - International,Finance,Corporate Finance,Corporate Finance,,0.25,Commercial,,Variable
+Equity Administration,Finance,Corporate Finance,Corporate Finance,1,,,,Fixed
+Procurement,Finance,Finance,Finance,,0.01,Denali HC All,0.013333333,Variable
+Procurement - New Locations,Finance,Finance,Finance,,0,Denali HC All,,Variable
+Procurement - Ph 3 Trial,Finance,Finance,Finance,,1,Ph3 Trial,,Variable
+Investor Relations (Fixed),Finance,Investor Relations/Communications,Investor Relations/Communications,1,,,,Fixed
+Investor Relations,Finance,Investor Relations/Communications,Investor Relations/Communications,,0.5,Commercial,,Variable
+Communications (Fixed),Finance,Investor Relations/Communications,Investor Relations/Communications,1,,,,Fixed
+Communications,Finance,Investor Relations/Communications,Investor Relations/Communications,,0.5,Commercial,,Variable
+Facilities (Fixed),Finance,Facilities,Facilities,1,,,,Fixed
+Facilities - Office,Finance,Facilities,Facilities,,0.006666667,Denali HC Office,0.007692308,Variable
+Facilities - Lab,Finance,Facilities,Facilities,,0.02,Denali HC Lab,,Variable
+R&D Finance (Fixed),Finance,Finance,Finance,2,,,,Fixed
+R&D Finance,Finance,Finance,Finance,,0.008695652,Denali HC All,0.01,Variable
+Mgmt,HR,Human Resourecs,Human Resources,1,,,,Fixed
+HR Payroll (Fixed),HR,Human Resourecs,Human Resources,1,,,,Fixed
+HR Operations (Fixed),HR,Human Resourecs,Human Resources,1,,,,Fixed
+HR Payroll,HR,Human Resourecs,Human Resources,,0.004,Denali HC All,0.005,Variable
+HR Operations,HR,Human Resourecs,Human Resources,,0.004,Denali HC All,0.005,Variable
+HR Business Partners,HR,Human Resourecs,Human Resources,,0.01,Denali HC All,0.011111111,Variable
+Talent Acquisition,HR,Talent Acquisition,Talent Acquisition,,0.033333333,Denali Growth,,Variable
+Administration,HR,Administration,Administration,,0.011764706,Denali HC All,0.0125,Variable
+Compliance & Employee Relations,HR,Human Resources,Human Resources,,0.02,Denali Manufacturing HC,,Variable
+Organizational Design & Training - Manufacturing,HR,Human Resources,Human Resources,,0.02,Denali Manufacturing HC,,Variable
+Organizational Design & Training - Commercial,HR,Human Resources,Human Resources,,1,Commercial,,Variable
+EH&S - Office,HR,EH&S,EH&S,,0.01,Denali HC Office,,Variable
+EH&S - Lab,HR,EH&S,EH&S,,0.02,Denali HC Lab,,Variable
+EH&S - Manufacturing,HR,EH&S,EH&S,,0.033333333,Denali Manufacturing HC,,Variable
+CEO,Corporate,Corporate,Corporate,1,,,,Fixed
